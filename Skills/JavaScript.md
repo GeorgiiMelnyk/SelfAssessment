@@ -1,8 +1,8 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🎓 known
+  - this 🎓 known
   - arrow function
   - async function
   - call
@@ -23,57 +23,57 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️ used
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators 🖐️ used
+  - logical operators 🖐️ used
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator 🎓 known
+  - void 🖐️ used
   - yield
   - await
   - template literal
   - strict mode
   - delete
   - in
-  - super
+  - super 👂 heard
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🖐️ used
+  - while 🖐️ used
+  - do..while 🖐️ used
+  - for 🖐️ used
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
-  - import
+  - throw 🎓 known
+  - break 🖐️ used
+  - continue 🎓 known
+  - import 🖐️ used
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️ used
+  - switch 🖐️ used
+  - class 🖐️ used
   - new Error
   - with
 - Functions
-  - function declaration
+  - function declaration 🎓 known
   - function expression
-  - return
+  - return 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🎓 known
   - mixin
-  - extend
+  - extend 🎓 known
   - typed arrays
-  - Map
-  - Set
+  - Map 👂 heard
+  - Set 👂 heard
   - undefined
-  - null
+  - null 🖐️ used
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js 👂 heard
+  - npm 👂 heard
   - prettier
   - MDN

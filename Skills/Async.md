@@ -1,12 +1,12 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 👂 heard
+  - try..catch 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor
+  - Pattern Reactor 👂 heard
   - CAS operations
   - epoll
   - kqueue
@@ -19,8 +19,8 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread 👂 heard
+  - Process 👂 heard
 - Async contracts
   - Callbacks
   - Callback-last-error-first
@@ -32,11 +32,11 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream 👂 heard
   - Chain of responsibility
   - Middleware
   - Locks
@@ -55,7 +55,7 @@
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
+  - Semaphore 👂 heard
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
@@ -92,4 +92,4 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API
+  - Web Locks API 
