@@ -8,33 +8,33 @@
   - Functional programming 🎓 known
   - Prototype-based programming 👂 heard
   - Object-oriented programming 🖐️ used
-  - Object-based programming 🎓 known
+  - Object-based programming 🖐️ used
   - Generic programming 👂 heard
   - Concurrent computing 👂 heard
-  - Asyncronous programming 👂 heard
+  - Asyncronous programming 🖐️ used
   - Parallel programming 👂 heard
   - Reactive programming 👂 heard
   - FRP (Functional-reactive) 👂 heard
   - Automata-based programming 👂 heard
   - Domain-specific languages 👂 heard
-  - Multi-paradigm programming 👂 heard
+  - Multi-paradigm programming 🎓 known
   - Metaprogramming 👂 heard
   - Actor model 👂 heard
 - OOP basics
-  - constructor 🖐️ used
-  - new 🖐️ used
-  - Static method 🎓 known
-  - Method 🖐️ used
-  - Async method 
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🖐️ used
+  - Method 🙋 explained
+  - Async method 👂 heard
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
   - Field declarations 🖐️ used
   - Inheritance 🎓 known
-  - Parent class 🎓 known
+  - Parent class 🙋 explained
   - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
+  - Abstract class 🖐️ used
+  - Interface 🙋 explained
   - Encapsulation 🖐️ used
   - Hidden class 🎓 known
   - Object form 🎓 known
@@ -42,14 +42,14 @@
   - Introspection 🎓 known
   - Reflection 👂 heard
 - Patterns
-  - Singleton 🎓 known
+  - Singleton 🙋 explained
   - Factory Method 👂 heard
   - Abstract Factory 👂 heard
   - Adapter 👂 heard
   - Observer 👂 heard
   - Strategy 👂 heard
   - Facade 👂 heard
-  - Proxy 👂 heard
+  - Proxy 🎓 known
   - Chain of Responsibility 👂 heard
   - Command 👂 heard
   - Iterator 👂 heard
