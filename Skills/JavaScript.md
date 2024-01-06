@@ -1,20 +1,20 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🎓 known
-  - this 🎓 known
+  - Object 🙋 explained
+  - this 🙋 explained
   - arrow function
   - async function
   - call
   - bind
   - apply
-  - instanceof
+  - instanceof 🎓 known
   - ...spread
   - ...rest
   - typeof
   - destructuring
-  - generator
-  - iterator
+  - generator 🎓 known
+  - iterator 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -23,60 +23,60 @@
   - global
   - globalThis
   - window
-  - getters and setters 🖐️ used
+  - getters and setters 🙋 explained
   - __proto__
   - prototype
   - equality operators 🖐️ used
   - logical operators 🖐️ used
   - bitwise operators
   - ternary operator 🎓 known
-  - void 🖐️ used
+  - void 🙋 explained
   - yield
   - await
   - template literal
   - strict mode
   - delete
   - in
-  - super 👂 heard
+  - super 🖐️ used
   - Symbol
   - Reflect
 - Statements
-  - if 🖐️ used
+  - if 🙋 explained
   - while 🖐️ used
   - do..while 🖐️ used
   - for 🖐️ used
   - for..in
   - for..of
   - for await
-  - throw 🎓 known
+  - throw 🖐️ used
   - break 🖐️ used
-  - continue 🎓 known
+  - continue 🖐️ used
   - import 🖐️ used
   - export
   - label
   - try..catch 🖐️ used
-  - switch 🖐️ used
-  - class 🖐️ used
+  - switch 🙋 explained
+  - class 🙋 explained
   - new Error
   - with
 - Functions
-  - function declaration 🎓 known
+  - function declaration 🖐️ used
   - function expression
-  - return 🖐️ used
-  - default parameters
+  - return 🙋 explained
+  - default parameters 🎓 known
   - functional object
 - Data structures
-  - Array 🎓 known
-  - mixin
-  - extend 🎓 known
-  - typed arrays
-  - Map 👂 heard
-  - Set 👂 heard
+  - Array 🖐️ used
+  - mixin 
+  - extend 🖐️ used
+  - typed arrays 🖐️ used
+  - Map 🎓 known
+  - Set 🎓 known
   - undefined
-  - null 🖐️ used
-  - Proxy
+  - null 🙋 explained
+  - Proxy 👂 heard
   - weak collections
-  - timers
+  - timers 👂 heard
   - EventEmitter
   - RegExp
   - Date

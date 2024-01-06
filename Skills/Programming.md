@@ -1,38 +1,38 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️ used
+  - value 🙋 explained
   - identifier 🖐️ used 
-  - variable 🖐️ used
-  - constant 🖐️ used
+  - variable 🙋 explained
+  - constant 🙋 explained
   - scalar 🖐️ used
   - literal 🖐️ used
   - expression 🖐️ used
   - heap 🖐️ used
   - function 🖐️ used
   - procedure 🖐️ used
-  - method 🖐️ used
-  - class 🖐️ used
+  - method 🙋 explained
+  - class 🙋 explained
   - prototype 🖐️ used
   - event 🖐️ used
-  - type 🖐️ used
-  - primitive types 🖐️ used
-  - reference types 🖐️ used
+  - type 🙋 explained
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
   - flag 🖐️ used
   - lexical scope 🖐️ used
   - code block 🖐️ used
   - conditions 🖐️ used
-  - loops 🖐️ used
+  - loops 🙋 explained
   - assignment 🖐️ used
   - regular expression 🖐️ used
-  - interface 🖐️ used
+  - interface 🙋 explained
   - contract 🖐️ used
   - module 🖐️ used
   - call stack 🖐️ used
 - Functions
-  - signature 🖐️ used
-  - argument  🖐️ used
-  - parameter 🖐️ used
+  - signature 🙋 explained
+  - argument  🙋 explained
+  - parameter 🙋 explained
   - pure function 🖐️ used
   - lambda expression 🖐️ used
   - side effects 🖐️ used
@@ -40,7 +40,7 @@
   - partial application 🖐️ used
   - curry 🖐️ used
   - higher order 🖐️ used
-  - recursion 🖐️ used
+  - recursion 🙋 explained
   - callback 🖐️ used
   - listener 🖐️ used
   - compose 🖐️ used
@@ -53,13 +53,13 @@
   - generator 🖐️ used
   - coroutine 🖐️ used
 - Data structures
-  - array 🖐️ used
+  - array 🙋 explained
   - structure 🖐️ used
   - record 🖐️ used
   - enum 🖐️ used
   - instance 🎓 known 
-  - object 🖐️ used
-  - class 🖐️ used
+  - object 🙋 explained
+  - class 🙋 explained
   - collection 🖐️ used
   - set 🖐️ used
   - hash table 🖐️ used
@@ -78,29 +78,29 @@
   - serialization 🎓 known
   - string parsing 🖐️ used
 - Process & style
-  - compiler 🖐️ used
+  - compiler 🙋 explained
   - transpiler 🖐️ used
   - linter 🖐️ used
   - polyfill 🖐️ used
   - debugger 🖐️ used
   - garbage collection 🖐️ used
-  - refactoring 🖐️ used
+  - refactoring 🙋 explained
   - code review  🖐️ used
   - antipatterns 🖐️ used
-  - paradigm 🖐️ used
+  - paradigm 🙋 explained
   - algorithm 🖐️ used
-  - magic numbers 🖐️ used
+  - magic numbers 🙋 explained
   - hardcode 🖐️ used
   - complexity 🖐️ used
   - decomposition 🖐️ used
-  - spaghetti 🖐️ used
+  - spaghetti 🙋 explained
   - silver bullet 🖐️ used
   - not invented here 🖐️ used
   - dead code 🎓 known
   - unreachable code 🖐️ used
-  - duplicate code 🖐️ used
+  - duplicate code 🙋 explained
   - exception 🖐️ used
   - return early 🖐️ used
   - unittest 🖐️ used
-  - git 🎓 known
+  - git 🖐️ used
   - github 🖐️ used
