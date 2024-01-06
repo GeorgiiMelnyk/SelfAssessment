@@ -72,7 +72,7 @@
   - typed arrays 🖐️ used
   - Map 🎓 known
   - Set 🎓 known
-  - undefined
+  - undefined 👂 heard
   - null 🙋 explained
   - Proxy 👂 heard
   - weak collections
